@@ -17,7 +17,7 @@ Use:
 - no external libs
 """
 
-from utils.string_utils import slugify
+from string_utils import slugify
 
 if __name__ == "__main__":
 
