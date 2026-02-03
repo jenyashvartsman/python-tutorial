@@ -1,0 +1,10 @@
+INFO auth User login succeeded
+DEBUG db Query executed in 12ms
+WARN web High latency detected
+ERROR cache Cache miss for key user:42
+TRACE api Received unexpected payload
+INFO worker Task completed successfully
+ERROR scheduler Failed to schedule job 123
+WARN notification Missing recipient address
+INFO
+DEBUG logger Debugging output enabled
