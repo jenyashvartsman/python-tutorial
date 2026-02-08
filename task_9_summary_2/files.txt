@@ -1,0 +1,17 @@
+/src/main.py 12
+/src/utils.py 8
+/README.md 4
+/src/main.py 12   # duplicate
+INVALID LINE
+/assets/logo.png -5
+/src/config.py 15
+/src/database.py 20
+/tests/test_main.py 10
+/docs/api.md 6
+/src/handlers.py 18
+/assets/icon.svg 3
+/src/validators.py 9
+/docs/guide.md 14
+/src/cache.py 11
+/tests/test_utils.py 7
+/tests/e2e/main.py 12

@@ -66,6 +66,7 @@ def load_requests() -> list[Request]:
 
     return reqs
 
+
 def print_total_requests(reqs: list[Request]) -> None:
     print(f"Total requests: {len(reqs)}")
 

@@ -12,7 +12,6 @@ class Request:
     status: int
     ms: int
 
-
     def __post_init__(self):
         if not isinstance(self.endpoint, str) or not self.endpoint.strip():
             raise InvalidRequestError("Endpoint cannot be empty")
